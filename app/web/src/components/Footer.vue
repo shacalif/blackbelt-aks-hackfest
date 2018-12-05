@@ -14,7 +14,7 @@
       <div class="col-lg-6">
       </div>
       <div class="col-lg-12 credits">
-        Just Meee - victorgo
+        Just Meee - victorgo...
       </div>
       <div class="col-lg-6">
       </div>
