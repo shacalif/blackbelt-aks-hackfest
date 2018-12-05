@@ -14,7 +14,7 @@
       <div class="col-lg-6">
       </div>
       <div class="col-lg-12 credits">
-        Just Meee - victo
+        Azure Global Blackbelt Team
       </div>
       <div class="col-lg-6">
       </div>
