@@ -14,7 +14,7 @@
       <div class="col-lg-6">
       </div>
       <div class="col-lg-12 credits">
-        Azure Global Blackbelt - Victorgo
+        I Want My Black Belt
       </div>
       <div class="col-lg-6">
       </div>
