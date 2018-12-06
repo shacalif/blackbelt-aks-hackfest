@@ -68,6 +68,6 @@ function getBranch (p) {
     if (p.ref) {
         return p.ref.substring(11)
     } else {
-        return "PR"
+       return "PR"
     }
 }
